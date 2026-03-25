@@ -2,18 +2,14 @@
 
 // Callback Hell (1st Problem with callbacks) -> unmaintainable and unreadable
 
+// INVERSION OF CONTROL => 2nd problem while using callbacks 
+
 const cart = ["shoes", "pants", "kurti"];
 
 api.createOrder(cart, function() {
 
-    api.processToPyament(function() {
+   api.proceedToPyament();
 
-        api.showOrderSummary(function() {
-
-            api.updateWallet()
-        });
-    });
 });
 
-// INVERSION OF CONTROL => 2nd problem while using callbacks 
 
