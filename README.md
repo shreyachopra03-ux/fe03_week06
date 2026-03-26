@@ -1,1 +1,17 @@
 JS ADVANCE CONCEPTS BY AKSHAY SAINI
+   - Block Scope And Shadowing In JS
+   - Closures In JS
+   - setTimoeut And Closures Interview Questions
+   - First Class Functions 
+   - Callback Functions In JS
+   - Async JS And Event Loop
+   - JS Engine
+   - setTimeout
+   - Higher Order Functions
+   - Map, Filter, Reduce
+   - Callback Hell
+   - Promsies
+   - Creating A Promise, Chaining And Error Handling
+   - Async Await
+   - Promise API'S And Interview Questions
+   - this Keyword In JS
